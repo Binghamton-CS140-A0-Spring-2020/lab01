@@ -532,8 +532,8 @@ public class Tester1 {
 		} catch (Exception e) {
 			++numWrong;
 			out.println("TEST " + testNum + " FAILED: Driver.main())");
-			out.println("ERROR MESSAGE SHOWN BELOW");
-			e.printStackTrace(out);			
+//			out.println("ERROR MESSAGE SHOWN BELOW");
+//			e.printStackTrace(out);			
 		}
 
 	}
