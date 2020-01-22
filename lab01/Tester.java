@@ -7,7 +7,7 @@ import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;
 import java.time.LocalDate;
 
-public class Tester1 {
+public class Tester {
 	private static PrintStream out = System.out;
 	private static double numWrong = 0;
 	private static int testNum = 0;
