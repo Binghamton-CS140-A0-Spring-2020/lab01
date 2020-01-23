@@ -624,7 +624,7 @@ public class Tester
 			System.setOut(old);
 			// Compare what happened with the expectation
 			String actual = baos.toString();
-			String expected = "14 years, 10 months, 1 days"
+			String expected = "14 years, 10 months, 3 days"
 					+ "Wilson "
 					+ "Computer Science"
 					+ "3.5"
