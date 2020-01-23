@@ -1,5 +1,5 @@
 package lab01;
 
-package Driver
+public class Driver
 {
 }
